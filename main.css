@@ -15,4 +15,7 @@
 
 .appear {
     opacity: 1;
+    transition: transform 2000ms 0s ease-in;
+    transform: scale(1.3); 
 }
+
